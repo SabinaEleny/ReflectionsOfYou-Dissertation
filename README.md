@@ -91,13 +91,13 @@ This choice directly contributes to the game's assessment, providing a tangible 
 
 **Character Exploration**
 *The game introduction.*
-![Player character walking through a detailed environment](GithubMedia/game-intro-long.gif)
+![Player character walking through a detailed environment](./GithubMedia/game-intro-long.gif)
 
 **Story Flow**
 *The course of the story*
-![Player character walking through a detailed environment](GithubMedia/gameplay2.gif)
+![Player character walking through a detailed environment](./GithubMedia/gameplay2.gif)
 
 **Interactive Dialogue System**
 *Watch the dialogue system in action as the player makes a critical choice.*
-![An animated GIF showing dialogue options appearing and the player selecting one](GithubMedia/gameplay3.gif)
+![An animated GIF showing dialogue options appearing and the player selecting one](./GithubMedia/gameplay3.gif)
 
