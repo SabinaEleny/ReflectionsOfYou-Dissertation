@@ -51,3 +51,53 @@ Here is a look at the game in action.
 **A Key Narrative Moment**
 
 ![A screenshot showing a thoughtful interaction between two characters](./GithubMedia/narrative-moment.png)
+
+---
+
+### 🔎 Scenario Spotlight: The "Favorite Band" Test
+
+A core mechanic in *Reflections of You* is to test for masking by recalling player inputs from earlier in the game and challenging them in a social context. This scenario demonstrates how an initial, personal preference is later put to the test when faced with potential social judgment.
+
+**Step 1: The Social Challenge**
+
+In this scene, an NPC references the player's favorite band, "Fall Out Boy," which was entered during the game's initial questionnaire. The NPC's comment introduces a subtle social pressure.
+
+*Player inputs their favorite band in the invitation mail.*
+
+![Player inputs their favorite band in the invitation mail.](./GithubMedia/fill-in.png)
+
+*NPC comments on the player's favorite band, creating a social challenge.*
+
+![NPC comments on the player's favorite band, creating a social challenge](./GithubMedia/testing1)
+
+**Step 2: The Masking Choice**
+
+The player is then presented with a critical choice. This moment is designed to directly measure the player's response to the social pressure.
+*Player is given a choice to be authentic or to mask their preference.*
+![Player is given a choice to be authentic or to mask their preference](./GithubMedia/testing2)
+
+The options represent a clear fork:
+
+*   **Authenticity:** To stand by their genuine preference, reinforcing their identity.
+*   **Masking:** To downplay or dismiss their interest in an attempt to conform and avoid potential judgment.
+
+This choice directly contributes to the game's assessment, providing a tangible data point on the player's tendency to mask their true self.
+
+---
+
+### 🎬 Gameplay Demos (GIFs)
+
+*A showcase of core gameplay mechanics and character interactions.*
+
+**Character Exploration**
+*The game introduction.*
+![Player character walking through a detailed environment](GithubMedia/game-intro-long.gif)
+
+**Story Flow**
+*The course of the story*
+![Player character walking through a detailed environment](GithubMedia/gameplay2.gif)
+
+**Interactive Dialogue System**
+*Watch the dialogue system in action as the player makes a critical choice.*
+![An animated GIF showing dialogue options appearing and the player selecting one](GithubMedia/gameplay3.gif)
+
