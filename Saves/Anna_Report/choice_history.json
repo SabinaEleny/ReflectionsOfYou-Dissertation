@@ -1,0 +1,79 @@
+{
+    "choices": [
+        {
+            "inkFileName": "laura_dialogue",
+            "contextKnot": "Initial_Intro",
+            "choiceText": "I don't know, Laura...you're the only one I know here."
+        },
+        {
+            "inkFileName": "yelena_dialogue",
+            "contextKnot": "Initial_Approach",
+            "choiceText": "Hey! Just wanted to say hi. I'm Anna."
+        },
+        {
+            "inkFileName": "yelena_dialogue",
+            "contextKnot": "Player_Options_After_Cold_Reception",
+            "choiceText": "My bad. I'll leave you to it."
+        },
+        {
+            "inkFileName": "robin_dialogue",
+            "contextKnot": "Sofa_Initial_Welcome",
+            "choiceText": "Mind if I join you guys? I'm Anna."
+        },
+        {
+            "inkFileName": "robin_dialogue",
+            "contextKnot": "Sofa_Post_Welcome_Options",
+            "choiceText": "You guys are such a cute couple!"
+        },
+        {
+            "inkFileName": "robin_dialogue",
+            "contextKnot": "outfit_check",
+            "choiceText": "Thanks, your outfit looks good too!"
+        },
+        {
+            "inkFileName": "damien_dialogue",
+            "contextKnot": "Damien_Comments_On_Music",
+            "choiceText": "Don't speak up, you might reveal yourself"
+        },
+        {
+            "inkFileName": "blaire_dialogue",
+            "contextKnot": "Discover_Blaire_Crying_Intro",
+            "choiceText": "Enter and see what's wrong"
+        },
+        {
+            "inkFileName": "blaire_dialogue",
+            "contextKnot": "Blaire_Explains_Reason_Sequence",
+            "choiceText": "It feels bad now, but stuff like this is temporary. You'll find someone better."
+        },
+        {
+            "inkFileName": "blaire_dialogue",
+            "contextKnot": "bers_temporary",
+            "choiceText": "You're right, I'm sorry. That was an awful thing to say. It sounds incredibly painful."
+        },
+        {
+            "inkFileName": "main_story",
+            "contextKnot": "laura_proposes_food_event",
+            "choiceText": "I'm good with whatever the group decides."
+        },
+        {
+            "inkFileName": "main_story",
+            "contextKnot": "alcohol_event_node",
+            "choiceText": "I'm gonna opt out of this one, Sam."
+        },
+        {
+            "inkFileName": "main_story",
+            "contextKnot": "console_request_node",
+            "choiceText": "Upstairs? Which room exactly? And where might it be?"
+        },
+        {
+            "inkFileName": "main_story",
+            "contextKnot": "group_gaming_node",
+            "choiceText": "Hey, no worries, Samuel. It was a fun game! Good match, everyone."
+        },
+        {
+            "inkFileName": "main_story",
+            "contextKnot": "final_departure_node",
+            "choiceText": "Alright, I'll say my goodbyes."
+        }
+    ]
+}
